@@ -45,7 +45,7 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.95.9",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "rimraf": "^3.0.2",
     "sails": "^1.4.4",
     "sails-hook-orm": "^3.0.2",
