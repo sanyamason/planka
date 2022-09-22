@@ -45,16 +45,16 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.95.9",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "rimraf": "^3.0.2",
-    "sails": "^1.4.4",
-    "sails-hook-orm": "^3.0.2",
-    "sails-hook-sockets": "^2.0.1",
+    "sails": "^1.5.3",
+    "sails-hook-orm": "^4.0.2",
+    "sails-hook-sockets": "^2.0.3",
     "sails-postgresql-redacted": "^1.0.2-9",
-    "sharp": "^0.28.3",
+    "sharp": "^0.30.5",
     "stream-to-array": "^2.3.0",
     "uuid": "^8.3.2",
-    "validator": "^13.6.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "chai": "^4.3.4",
