@@ -47,7 +47,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "rimraf": "^3.0.2",
-    "sails": "^1.4.4",
+    "sails": "^1.5.4",
     "sails-hook-orm": "^3.0.2",
     "sails-hook-sockets": "^2.0.1",
     "sails-postgresql-redacted": "^1.0.2-9",
